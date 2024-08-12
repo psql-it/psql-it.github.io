@@ -14,10 +14,10 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/home-bg-jeep.jpg"
-  SEOTitle = "PSQL.it Comunitá italiana utenti e sviluppatori PostgreSQL"
-  description = "Comunitá italiana utenti e sviluppatori PostgreSQL"
+  SEOTitle = "PSQL.it Comunità italiana utenti e sviluppatori PostgreSQL"
+  description = "Comunità italiana utenti e sviluppatori PostgreSQL"
   keyword = "Postgres, PostgreSQL, SQL, plpgsql"
-  slogan = "Comunitá italiana utenti e sviluppatori PostgreSQL"
+  slogan = "Comunità italiana utenti e sviluppatori PostgreSQL"
   upstreamAttribution = true
 
   image_404 = "img/404-bg.jpg"
