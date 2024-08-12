@@ -15,9 +15,9 @@ home = ["HTML", "RSS", "Algolia"]
 [params]
   header_image = "img/home-bg-jeep.jpg"
   SEOTitle = "赵化冰的博客 | Zhaohuabing Blog"
-  description = "Cominitá italiana utenti e sviluppatori PostgreSQL"
+  description = "Comunitá italiana utenti e sviluppatori PostgreSQL"
   keyword = "Postgres, PostgreSQL, SQL, plpgsql"
-  slogan = "Cominitá italiana utenti e sviluppatori PostgreSQL"
+  slogan = "Comunitá italiana utenti e sviluppatori PostgreSQL"
   upstreamAttribution = true
 
   image_404 = "img/404-bg.jpg"
