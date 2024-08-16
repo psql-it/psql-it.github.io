@@ -17,5 +17,5 @@ Unisciti a noi, scopri come PostgreSQL può fare la differenza nei tuoi progetti
 
 ### Contatti e informazioni utili
 
-Se hai domande o desideri saperne di più, non esitare a [contattarci](mailto:osvaldot@gmail.com).
+Se hai domande o desideri saperne di più, non esitare a [contattarci](mailto:info@psql.it).
 [Iscriviti](https://freelists.org/list/postgresql-it) alla nostra mailing list e inizia a condividere la tua esperienza con PostgreSQL oggi stesso!
